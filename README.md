@@ -1,6 +1,6 @@
 # <center>![](./assets/img/logo-32.ico) Age of History II: The Pony In The High Castle MOD</center>
 
-Latest Public Version: 0.2.2L
+Latest Public Version: [0.2.2L](https://github.com/Magolor/AoH2-PIHC/releases/tag/0.2.2L)
 
 Latest Working Version: 0.2.3L
 
