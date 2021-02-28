@@ -155,10 +155,14 @@ _Note: "T" stands for "tiny", "S" for "small", "M" for "medium", "L" for "large"
 - ✅ (0.2.3L) Create Ages. 创建时代。
 - ✅ (0.2.3L) Create Governments. 创建政体。
 - ✅ (0.2.3L) Create Terrain Types. 创建地形。
-- ⬜ (0.2.3L) Balance adjustments. 平衡性调整。
-- ⬜ (0.2.3L) Create more cities. 创建更多城市。
-- ⬜ (0.2.3L) Create simple scenarios with events. 创建简单的事件剧本。
-- ⬜ (0.2.4L) Leader portraits and flags for each civilization. 领袖肖像和旗帜。
+- ✅ (0.2.3L) Balance adjustments. 平衡性调整。
+- ✅ (0.2.3L) Create more cities. 创建更多城市。
+- ✅ (0.2.3L) Create simple scenarios with events. 创建简单的事件剧本。
+- ⬜ (0.2.4L) Complete leader portraits and flags for each civilization. 补充领袖肖像和旗帜。
+- ⬜ (0.2.4L) Create slightly more complex scenarios with events. 创建稍微复杂一点的事件剧本。
+- ⬜ (0.2.4L) Balance adjustments. 平衡性调整。
+- ⬜ (0.3.0L) Create more civilizations. 创建更多文明。
+- ⬜ (1.0.0L) Full complex scenarios with events. 创建完整、复杂的事件剧本。
 - ...
 
 <br/>
@@ -175,19 +179,19 @@ _Note: "T" stands for "tiny", "S" for "small", "M" for "medium", "L" for "large"
 Developers:
 - Talirian (me): MOD Founder & Map developer & PC MOD designer/developer.
 - 尖峰Gren: Android MOD developer & PC MOD developer.
-- vagrant137, Norway, 特瓦伊莱特: The first testers.
+- vagrant137, Norway, 特瓦伊莱特, etc.: The first testers.
 - porkied: MOD Proposer.
 
-Helpers:
+Great Helpers:
 - 下木枕流, 以德待人, 从〇开始的鸽子生活, ... (from AoH2:Weita MOD production group). 
 
 开发者：
 - Talirian (我)：模组创始者 & 地图开发者 & PC模组设计者/开发者。
 - 尖峰Gren：安卓模组开发者 & PC模组开发者。
-- vagrant137，Norway，特瓦伊莱特：首批体验者们。
+- vagrant137，Norway，特瓦伊莱特，等许多人：首批体验者们。
 - porkied：模组提议者。
 
-帮助者：
+重要帮助者：
 - 下木枕流，以德待人，从〇开始的鸽子生活等人。（来自文明时代2：维他模组制作组）。
 
 <br/>
