@@ -1,8 +1,8 @@
 # <center>![](./assets/img/logo-32.ico) Age of History II: The Pony In The High Castle MOD</center>
 
-Latest Public Version: [0.2.2L](https://github.com/Magolor/AoH2-PIHC/releases/tag/0.2.2L)
+Latest Public Version: [0.2.3L](https://github.com/Magolor/AoH2-PIHC/releases/tag/0.2.3L)
 
-Latest Working Version: 0.2.3L
+Latest Working Version: 0.2.4L
 
 ## What is "The Pony In The High Castle" MOD? 什么是"高堡奇驹"模组？
 
@@ -47,7 +47,7 @@ The relatively new version of Age of History II from steam is required. ——Fe
 We use the version 0.2.2L as a demonstration.
 下面以版本0.2.2L为例演示安装方法。
 
-Download the rar or zip file in [0.2.2L release](https://github.com/Magolor/AoH2-PIHC/releases/tag/0.2.2L) to your local disk. Or you can download through [Baidu Cloud Disk](https://pan.baidu.com/s/1_fEH_VE7n0v5SlP_L1SXew) (code: rv8j) or QQ channael (934449651). 
+Download the rar or zip file in [0.2.2L release](https://github.com/Magolor/AoH2-PIHC/releases/tag/0.2.2L) to your local disk. Or you can download through [Baidu Cloud Disk](https://pan.baidu.com/s/1_fEH_VE7n0v5SlP_L1SXew) (code: rv8j) or QQ channel (934449651). 
 首先下载[版本0.2.2L](https://github.com/Magolor/AoH2-PIHC/releases/tag/0.2.2L)中的rar或zip文件到本地。也可以通过[百度网盘](https://pan.baidu.com/s/1_fEH_VE7n0v5SlP_L1SXew) (code: rv8j)或QQ群 (934449651)下载。
 
 Then copy all the sub directories of the folder "PIHC-0.2.2L/" into your game folder (e.g.: "\<path to steam\>/steamapps/common/AoCII/"), and replace all files if any conflict occurs.
@@ -76,11 +76,33 @@ If you are stuck at the first time loading the game, just quit the game and try 
 Now the installation is done. Enjoy!
 安装完成。尽情享受！
 
+## Recommended Display Setting 推荐显示配置
+
+**Universal: Game Speed 200%**
+
+PC: 16:9, Province Alpha 150, Civilization Names-Font size 70, Civilization Names-Min Scale of Civilization names 0%, Civilization Names-Color Alpha 100%, Civilization Names-Width >=5px.
+
 <br/>
 
 ## Change Log 更新日志
 
 _Note: "T" stands for "tiny", "S" for "small", "M" for "medium", "L" for "large" and "H" for huge, with respect to the number of provinces. 版本号中T,S,M,L,H代表地图大小（省份数目）从小到大。_
+
+### 2021.02.28 0.2.3L
+
+- 46 Events in total. 总计46个事件。
+- 32 Cities in total. 总计32个城市。
+- Regions and Continents added. 添加了区域和大陆。
+- Chinese support added for cities and leaders. 地名、领袖添加了中文支持。
+- Flags added partially. 添加部分文明旗帜。
+- 8 Ages added: "The Good Old Days" (B.C.1024-B.C.3), Jahr Null (B.C.3-A.D.200), Age of Turmoil (A.D.200-A.D.600), Age of Tension (A.D.600-A.D.1200), "The Golden Age" (A.D.1200-A.D.1600), Age of Crisis (A.D.1600-A.D.1850), Acopolypse (A.D.1850-A.D.1984), Post-Acopolypse (A.D.1984-A.D.9999). 添加了8个时代：“美好的旧时代”(B.C.1024~B.C.3)，新元年(B.C.3~A.D.200)，饥荒与动乱(A.D.200~A.D.600)，紧张与冲突(A.D.600~A.D.1200)，“黄金时代”(A.D.1200~A.D.1600)，危机纪元(A.D.1600~A.D.1850)，启示录(A.D.1850~A.D.1984)，后末日纪元(A.D.1984~A.D.9999)。
+- 13 Ideologies added: Monarchy, Feudalism, Republic, Communism, Military, MegaCorp, Anarchy, Fascism, Burgerdian System, Horde, Religionism, Spirit, Deity. 添加政体：封建君主制，封建领主制，共和制，共产主义，军政府，商业帝国，无政府主义，法西斯主义，汉堡店体制（？），部落，政教合一，魔法生物，神灵。
+- 5 terrain types added: Fortress, Tartarus, Metropolis, City, Holy Land. 新增5种地形：堡垒，塔尔塔洛斯，大都会，城市，圣地。
+- Minor Leaders refine. 微小的领袖完善。
+- ~~Minor~~ Major balancing. ~~微小~~巨大的平衡性修正。
+- Added 1 leader: Hoo'Far (for Saddle Arabia). 添加了1位领袖: 胡·珐尔（马鞍阿拉伯）。
+- All 24 leaders now have portrait (of poor quality). 所有24位领袖现在有了肖像（低质量）。
+- 11 diseases added. 添加了11种疾病。
 
 ### 2021.02.23 0.2.2L
 
@@ -95,7 +117,7 @@ _Note: "T" stands for "tiny", "S" for "small", "M" for "medium", "L" for "large"
   - "For Fluttery!" (”为了柔柔！“)
 - 16 cities in total. 16个城市。
 - Civilizations Rename: Cozy Glow's Feudal Equestria -> Equestria Empire, Derpy's Feudal Cloudsdale -> Feudal Cloudsdale, Discord Legion -> Chaos Legion, Trixie Lulamoon's Feudal Ponyville -> Feudal Ponyville. 和熙光流的封建小马国->小马利亚帝国, 小呆的云中城封地->封建云中城, 无序军团->混沌军团, 崔克西的小马谷封地->封建小马谷。
-- Added 23 leaders without portraits: Starlight Glimmer (for Starlight Liberation Front), Lord Tirek (for Tirek's Realm), Cozy Glow (for Equestria Empire), Queen Chrysalis (for Changeling Empire), Trixie Lulamoon (for Feudal Ponyville), Zecora (for Zebra Tribe), Gift Givers (for The Reindeers In The High Castle), Flim & Flam (for Los Pegasus Syndicate), Windigos (for Windigos), Flurry Heart (for Crystal Empire), Derpy Hooves (for Cloudsdale), Sunset Shimmer (for The Mirror Dimension), Autumn Blaze (for Kirin Utopia), Capper (for Kluge Town), Discord (for Chaos Legion), Braeburn (for Appleloosa Autonomous Region), Maud Pie (for Rockfarm Autonomous Region), Queen Novo (for Hippogriff Kingdom), Ember (for Dragonland), Prince Rutherford (for Yakyakistan), Gladmane (for Manehatton Gang), Grampa Gruff (for Griffon Empire), Ahuizotl (for Ahuizotl's Jurisdiction). 添加了23位无肖像领袖: 星光熠熠（星光解放阵线），提雷克领主（提雷克领地），和熙光流（小马利亚帝国），虫茧女王（幻形灵帝国），崔克西（封建小马谷），泽科拉（斑马部落），赠礼精灵（驯鹿），弗立姆弗莱姆兄弟（洛马基财团），风之魔（风之魔），风雪之心（水晶帝国），小呆（云中城），余晖烁烁（镜中世界），秋烨（麒麟乌托邦），卡帕（克鲁格镇），无序（混沌军团），布雷本（苹果鲁萨自治区），石灰派（采石农场自治区），诺沃女皇（骏鹰/海马王国），琥珀（龙族），卢瑟福王子（牦牛亚克斯坦），格拉德马（曼哈顿黑帮），古鲁爷爷（狮鹫帝国），水猴（水猴辖区）。
+- Added 23 leaders without portraits: Starlight Glimmer (for Starlight Liberation Front), Lord Tirek (for Tirek's Realm), Cozy Glow (for Equestria Empire), Queen Chrysalis (for Changeling Empire), Trixie Lulamoon (for Feudal Ponyville), Zecora (for Zebra Tribe), Gift Givers (for The Reindeers In The High Castle), Flim & Flam (for Los Pegasus Syndicate), Windigos (for Windigos), Flurry Heart (for Crystal Empire), Derpy Hooves (for Cloudsdale), Sunset Shimmer (for The Mirror Dimension), Autumn Blaze (for Kirin Utopia), Capper (for Kluge Town), Discord (for Chaos Legion), Braeburn (for Appleloosa Autonomous Region), Maud Pie (for Rockfarm Autonomous Region), Queen Novo (for Hippogriff Kingdom), Ember (for Dragonland), Prince Rutherford (for Yakyakistan), Gladmane (for Manehatton Gang), Grampa Gruff (for Griffon Empire), Ahuizotl (for Ahuizotl's Jurisdiction). 添加了23位无肖像领袖: 星光熠熠（星光解放阵线），提雷克领主（提雷克领地），和熙光流（小马利亚帝国），虫茧女王（幻形灵帝国），崔克西（封建小马谷），泽科拉（斑马部落），赠礼精灵（驯鹿），弗立姆弗莱姆两兄弟（洛马基财团），风之魔（风之魔），风雪之心（水晶帝国），小呆（云中城），余晖烁烁（镜中世界），秋烨（麒麟乌托邦），卡珀（克鲁格镇），无序（混沌军团），布雷本（苹果鲁萨自治区），石灰派（采石农场自治区），诺沃女皇（骏鹰/海马王国），余焰（龙族），卢瑟福王子（牦牛亚克斯坦），格拉德马（曼哈顿黑帮），古鲁爷爷（狮鹫帝国），水猴（水猴辖区）。
 
 ### 2021.02.03 0.2.1L
 
@@ -130,9 +152,11 @@ _Note: "T" stands for "tiny", "S" for "small", "M" for "medium", "L" for "large"
 - ✅ (0.2.1L) Publicize 0.2.1L, the first public version. 公布第一个公开版本0.2.1L。
 - **✅ (0.2.2L) Android Mobile Support. 支持安卓手机版。**
 - ✅ (0.2.2L) Create leaders for each civilization. 创建领袖。
+- ✅ (0.2.3L) Create Ages. 创建时代。
+- ✅ (0.2.3L) Create Governments. 创建政体。
+- ✅ (0.2.3L) Create Terrain Types. 创建地形。
 - ⬜ (0.2.3L) Balance adjustments. 平衡性调整。
 - ⬜ (0.2.3L) Create more cities. 创建更多城市。
-- ⬜ (0.2.3L) Chinese Loading lines. 中文启动语。
 - ⬜ (0.2.3L) Create simple scenarios with events. 创建简单的事件剧本。
 - ⬜ (0.2.4L) Leader portraits and flags for each civilization. 领袖肖像和旗帜。
 - ...

@@ -1,0 +1,18 @@
+{
+    Map: [
+        {
+            MapName: "PIHC-0.2.3-large",
+            Author: "Talrian",
+            BackgroundName: "PIHC-large",
+            ContinentsPackage: "1614514294682wruyviyp"
+            RegionsPackage: "1614512846899nuqppnac",
+            NumberOfProvinces: 2164,
+            MapScale: 1,
+            WorldMap: false,
+            Scenario: "testScenario",
+            Wiki: "Wikipedia:Unusual_articles"
+        },
+    ],
+    
+    Age_of_Civilizations: Map
+}
