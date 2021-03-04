@@ -95,7 +95,7 @@ _Note: "T" stands for "tiny", "S" for "small", "M" for "medium", "L" for "large"
 - Regions and Continents added. 添加了区域和大陆。
 - Chinese support added for cities and leaders. 地名、领袖添加了中文支持。
 - Flags added partially. 添加部分文明旗帜。
-- 8 ages added: "The Good Old Days" (B.C.1024-B.C.3), Jahr Null (B.C.3-A.D.200), Age of Turmoil (A.D.200-A.D.600), Age of Tension (A.D.600-A.D.1200), "The Golden Age" (A.D.1200-A.D.1600), Age of Crisis (A.D.1600-A.D.1850), Acopolypse (A.D.1850-A.D.1984), Post-Acopolypse (A.D.1984-A.D.9999). 添加了8个时代：“美好的旧时代”(B.C.1024~B.C.3)，新元年(B.C.3~A.D.200)，饥荒与动乱(A.D.200~A.D.600)，紧张与冲突(A.D.600~A.D.1200)，“黄金时代”(A.D.1200~A.D.1600)，危机纪元(A.D.1600~A.D.1850)，启示录(A.D.1850~A.D.1984)，后末日纪元(A.D.1984~A.D.9999)。
+- 8 ages added: "The Good Old Days" (B.C.1024-B.C.3), Jahr Null (B.C.3-A.D.200), Age of Turmoil (A.D.200-A.D.600), Age of Tension (A.D.600-A.D.1200), "The Golden Age" (A.D.1200-A.D.1600), Age of Crisis (A.D.1600-A.D.1850), Acopolypse (A.D.1850-A.D.1984), Post-Acopolypse (A.D.1984-A.D.9999). 添加了8个时代：“美好的旧时代”(B.C.1024\~B.C.3)，新元年(B.C.3\~A.D.200)，饥荒与动乱(A.D.200\~A.D.600)，紧张与冲突(A.D.600\~A.D.1200)，“黄金时代”(A.D.1200\~A.D.1600)，危机纪元(A.D.1600\~A.D.1850)，启示录(A.D.1850\~A.D.1984)，后末日纪元(A.D.1984\~A.D.9999)。
 - 13 ideologies added: Monarchy, Feudalism, Republic, Communism, Military, MegaCorp, Anarchy, Fascism, Burgerdian System, Horde, Religionism, Spirit, Deity. 添加政体：封建君主制，封建领主制，共和制，共产主义，军政府，商业帝国，无政府主义，法西斯主义，汉堡店体制（？），部落，政教合一，魔法生物，神灵。
 - 5 terrain types added: Fortress, Tartarus, Metropolis, City, Holy Land. 新增5种地形：堡垒，塔尔塔洛斯，大都会，城市，圣地。
 - Minor Leaders refine. 微小的领袖完善。
