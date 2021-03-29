@@ -1,6 +1,6 @@
 # <center>![](./assets/img/logo-32.ico) Age of History II: The Pony In The High Castle MOD</center>
 
-Latest Public Version: [0.2.3L](https://github.com/Magolor/AoH2-PIHC/releases/tag/v0.2.3L)
+Latest Public Version: [0.3.0L](https://github.com/Magolor/AoH2-PIHC/releases/tag/v0.3.0L)
 
 Latest Working Version: 0.3.1L
 
@@ -88,7 +88,7 @@ Example 示例:
 			Folder: "template"
 		},
 		{
-			Folder: "PIHC-0.3.0-large"
+			Folder: "PIHC-0.2.2-large"
 		},
 	],
 	
@@ -231,6 +231,7 @@ _Note: "T" stands for "tiny", "S" for "small", "M" for "medium", "L" for "large"
 Developers:
 - Talirian (me): MOD Founder & Map developer & PC MOD designer/developer.
 - 尖峰Gren: Android MOD developer & PC MOD developer.
+- 童贯: Android MOD developer.
 - vagrant137, Norway, 特瓦伊莱特, etc.: The first testers.
 - porkied: MOD Proposer.
 
@@ -244,6 +245,7 @@ OC contributors:
 开发者：
 - Talirian (我)：模组创始者 & 地图开发者 & PC模组设计者/开发者。
 - 尖峰Gren：安卓模组开发者 & PC模组开发者。
+- 童贯: 安卓模组开发者。
 - vagrant137，Norway，特瓦伊莱特，等许多人：首批体验者们。
 - porkied：模组提议者。
 
