@@ -1,8 +1,8 @@
 # <center>![](./assets/img/logo-32.ico) Age of History II: The Pony In The High Castle MOD</center>
 
-Latest Public Version: [0.3.0L](https://github.com/Magolor/AoH2-PIHC/releases/tag/v0.3.0L)
+Latest Public Version: [0.3.1L](https://github.com/Magolor/AoH2-PIHC/releases/tag/v0.3.1L)
 
-Latest Working Version: 0.3.1L
+Latest Working Version: 0.3.2L
 
 ## What is "The Pony In The High Castle" MOD? 什么是"高堡奇驹"模组？
 
@@ -114,13 +114,20 @@ Now the installation is done. Enjoy!
 
 **Universal: Game Speed 200%**
 
-PC: 16:9, Province Alpha 150, Civilization Names-Font size 70, Civilization Names-Min Scale of Civilization names 0%, Civilization Names-Color Alpha 100%, Civilization Names-Width >=5px.
+PC: 16:9, UI font size <= 18, Province Alpha 150, Civilization Names-Font size 70, Civilization Names-Min Scale of Civilization names 0%, Civilization Names-Color Alpha 100%, Civilization Names-Width >=5px.
 
 <br/>
 
 ## Change Log 更新日志
 
 _Note: "T" stands for "tiny", "S" for "small", "M" for "medium", "L" for "large" and "H" for huge, with respect to the number of provinces. "L" will be the only size included for forseeable future. 版本号中T,S,M,L,H代表地图大小（省份数目）从小到大。在将来一段时间内都将只有L版本开发。_
+
+### 2021.04.05 0.3.1L
+
+- **83 events in total. 总计83个事件。**
+- **Partial learders portrait upgrade: Trixie Lulamoon, Zecora, Queen Chrysalis, Ahuizotl, Nightmare Moon, Sunset Shimmer, Discord, Derpy Hooves, Maud Pie, Starlight Glimmer. (artworks by [harwicks-art](https://www.deviantart.com/harwicks-art)) 部分领袖肖像升级：崔克西，泽科拉，虫茧女王，水猴，梦魇之月，余晖烁烁，无序，小呆，石灰派，星光熠熠。（画师[harwicks-art](https://www.deviantart.com/harwicks-art)）**
+- Map bugfixes. 地图错误修正。
+- Minor balancing. 微小的平衡性修正。
 
 ### 2021.03.26 0.3.0L
 
@@ -209,9 +216,13 @@ _Note: "T" stands for "tiny", "S" for "small", "M" for "medium", "L" for "large"
 - ✅ (0.2.4L) Balance adjustments. 平衡性调整。
 - ✅ (0.3.0L) OC contribution window open. 开启OC提交窗口。
 - ✅ (0.3.0L) Create more civilizations. 创建更多文明。
-- ⬜ (0.3.1L) Fix BUGs for testing events. 为测试中的事件修正BUG。
+- ✅ (0.3.1L) Fix BUGs for testing events. 为测试中的事件修正BUG。
+- ✅ (0.3.1L) Create slightly more complex scenarios with events. 创建稍微复杂一点的事件剧本。
 - ⬜ (0.3.1L) Promotion Video. 宣传片。
-- ⬜ (0.4.0L) Create even more complex scenarios with events. 创建更加复杂一点的事件剧本。
+- ⬜ (0.3.2L) Events Pack: Fall of Tartarus。事件包：塔尔塔洛斯的陷落。
+- ⬜ (0.3.3L) Events Pack: Planned Economy。事件包：计划经济。
+- ⬜ (0.3.4L) Events Pack: Horse of Cards。事件包：纸牌马。
+- ...
 - ⬜ (0.4.0L) Create new scenario (e.g.: civilizations for M6 each). 创建新剧本（例如为M6分别建立政权）。
 - ⬜ (0.4.0L) Create more civilizations. 创建更多文明。
 - ⬜ (1.0.0L) Full complex scenarios with events. 创建完整、复杂的事件剧本。
@@ -237,6 +248,7 @@ Developers:
 
 Great Helpers:
 - 下木枕流, 以德待人, 从〇开始的鸽子生活, etc. (from AoH2:Weita MOD production group). 
+- harwicks-art: providing leaders portraits authorized under CC "share and share alike" license.
 
 OC contributors:
 - Talirian (me): Talirian Inc., Magolor Lab..
@@ -251,6 +263,7 @@ OC contributors:
 
 重要帮助者：
 - 下木枕流，以德待人，从〇开始的鸽子生活等人。（来自文明时代2：维他模组制作组）。
+- harwicks-art: 授权使用领袖肖像。
 
 OC 贡献者
 - 塔里瑞安（我）：塔里瑞安组织，麦格劳尔实验室。
