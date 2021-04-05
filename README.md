@@ -1,4 +1,4 @@
-# <center>![](./assets/img/logo-32.ico) Age of History II: The Pony In The High Castle MOD</center>
+# <center>![](./assets/img/logo_1-64.ico) Age of History II: The Pony In The High Castle MOD</center>
 
 Latest Public Version: [0.3.1L](https://github.com/Magolor/AoH2-PIHC/releases/tag/v0.3.1L)
 
@@ -12,7 +12,7 @@ PIHC"高堡奇驹"MOD是文明时代2的游戏模组。此模组的剧情设定�
 In this fictional world, Cozy Glow, Queen Chrysalis and Lord Tirek won the Ultimate Battle (S09E24, S09E25), instead of M6 in the official episodes.
 在这样一个架空世界中，和熙光流、虫茧女王和提雷克领主，而不是M6，取得了终末之战的胜利。
 
-![PIHC MOD demo](./assets/img/PIHC-0.3.0L-demo.png)
+![PIHC MOD demo](./assets/img/PIHC-0.3.1L-demo.png)
 
 This MOD is designed to be a part of a whole series of multimedia projects under the same setting —— PIHC world.
 此模组计划为同一世界观设定下（"高堡奇驹"世界）的系列多媒体工程之一。
@@ -128,6 +128,7 @@ _Note: "T" stands for "tiny", "S" for "small", "M" for "medium", "L" for "large"
 - **Partial learders portrait upgrade: Trixie Lulamoon, Zecora, Queen Chrysalis, Ahuizotl, Nightmare Moon, Sunset Shimmer, Discord, Derpy Hooves, Maud Pie, Starlight Glimmer. (artworks by [harwicks-art](https://www.deviantart.com/harwicks-art)) 部分领袖肖像升级：崔克西，泽科拉，虫茧女王，水猴，梦魇之月，余晖烁烁，无序，小呆，石灰派，星光熠熠。（画师[harwicks-art](https://www.deviantart.com/harwicks-art)）**
 - Map bugfixes. 地图错误修正。
 - Minor balancing. 微小的平衡性修正。
+- Logo prettified. 图标美化。
 
 ### 2021.03.26 0.3.0L
 
