@@ -219,7 +219,7 @@ _Note: "T" stands for "tiny", "S" for "small", "M" for "medium", "L" for "large"
 - ✅ (0.3.0L) Create more civilizations. 创建更多文明。
 - ✅ (0.3.1L) Fix BUGs for testing events. 为测试中的事件修正BUG。
 - ✅ (0.3.1L) Create slightly more complex scenarios with events. 创建稍微复杂一点的事件剧本。
-- ⬜ (0.3.1L) Promotion Video. 宣传片。
+- ✅ (0.3.1L) [Promotion Video](https://www.bilibili.com/video/BV12v411j79h/). [宣传片](https://www.bilibili.com/video/BV12v411j79h/)。
 - ⬜ (0.3.2L) Events Pack: Fall of Tartarus。事件包：塔尔塔洛斯的陷落。
 - ⬜ (0.3.3L) Events Pack: Planned Economy。事件包：计划经济。
 - ⬜ (0.3.4L) Events Pack: Horse of Cards。事件包：纸牌马。
