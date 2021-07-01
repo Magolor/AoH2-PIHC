@@ -1,8 +1,8 @@
 # <center>![](./assets/img/logo_1-64.ico) Age of History II: The Pony In The High Castle MOD</center>
 
-Latest Public Version: [0.3.1L](https://github.com/Magolor/AoH2-PIHC/releases/tag/v0.3.1L)
+Latest Public Version: [0.3.2L](https://github.com/Magolor/AoH2-PIHC/releases/tag/v0.3.2L)
 
-Latest Working Version: 0.3.2L
+Latest Working Version: 0.3.3L
 
 ## What is "The Pony In The High Castle" MOD? 什么是"高堡奇驹"模组？
 
@@ -70,24 +70,6 @@ Example 示例:
 {
 	Map: [
 		{
-			Folder: "Earth"
-		},
-		{
-			Folder: "Europe"
-		},
-		{
-			Folder: "Asia"
-		},
-		{
-			Folder: "Earth_AoC1"
-		},
-		{
-			Folder: "Kepler"
-		},
-		{
-			Folder: "template"
-		},
-		{
 			Folder: "PIHC-0.2.2-large"
 		},
 	],
@@ -114,13 +96,30 @@ Now the installation is done. Enjoy!
 
 **Universal: Game Speed 200%**
 
-PC: 16:9, UI font size <= 18, Province Alpha 150, Civilization Names-Font size 70, Civilization Names-Min Scale of Civilization names 0%, Civilization Names-Color Alpha 100%, Civilization Names-Width >=5px.
+PC: 16:9, UI font size <= 17, Province Alpha 125~150, Civilization Names-Font size 60~75, Civilization Names-Min Scale of Civilization names 0%, Civilization Names-Color Alpha 100%, Civilization Names-Width >=5px.
 
 <br/>
 
 ## Change Log 更新日志
 
 _Note: "T" stands for "tiny", "S" for "small", "M" for "medium", "L" for "large" and "H" for huge, with respect to the number of provinces. "L" will be the only size included for forseeable future. 版本号中T,S,M,L,H代表地图大小（省份数目）从小到大。在将来一段时间内都将只有L版本开发。_
+
+### 2021.07.01 0.3.2L
+
+- **The Fall Of Tartarus DLC, featuring events including: The Fall of Tartarus, Apple Market, Return of the Shadow, Sire's Hollow, The Griffin Lies Heavy, Yaks Awaken events, etc. 塔尔塔洛斯的陷落主题事件包，内容包括但不限于事件系列：塔尔塔洛斯的陷落、苹果市场、暗影的回归、西雷斯霍勒、沉重的狮鹫、牦牛觉醒等。**
+- **220 events in total. 总计220个事件。**
+- **71 civilizations in total: 8 OC civlizations in OC War scenario. 60 civilizations in PIHC scenario, among which 26 are initially selectable, 14 are event-triggered, 10 are formable and 10 are customized. All with leaders, portraits, and flags. 总计71个文明：8个OC文明，60个高堡奇驹文明，其中26个初始可选，14个事件触发，10个胜利路线，10个自定义。 全部带有领袖、肖像和旗帜。**
+- 42 cities in total. 总计42个城市。
+- 51 loading lines in total. 51条启动语。
+- Map Enhancement. 地图修正。
+- **1 new sub-scenario: My Little Pony (Official time line). 一个新的小剧本：小马宝莉（官方世界线）。**
+- **3 new ideologies added: Conspiracy, Constitutional Monarchy, Exclusionism. 阴谋，君主立宪，排外主义。**
+- **Fully bilingual support via event localization. 通过事件汉化新技术实现完整的双语支持。**
+- Music added. 添加了音乐。
+  - The Fall Of Tartarus (塔尔塔洛斯的陷落)
+- ~~Minor~~ Major balancing. ~~微小~~巨大的平衡性修正。
+- Icon prettified. 按钮图标美化。
+- Various improvements and bugfixes. 大量优化和BUG修正。
 
 ### 2021.04.05 0.3.1L
 
@@ -220,11 +219,13 @@ _Note: "T" stands for "tiny", "S" for "small", "M" for "medium", "L" for "large"
 - ✅ (0.3.1L) Fix BUGs for testing events. 为测试中的事件修正BUG。
 - ✅ (0.3.1L) Create slightly more complex scenarios with events. 创建稍微复杂一点的事件剧本。
 - ✅ (0.3.1L) [Promotion Video](https://www.bilibili.com/video/BV12v411j79h/). [宣传片](https://www.bilibili.com/video/BV12v411j79h/)。
-- ⬜ (0.3.2L) Events Pack: Fall of Tartarus。事件包：塔尔塔洛斯的陷落。
+- ✅ (0.3.2L) Events Pack: Fall of Tartarus。事件包：塔尔塔洛斯的陷落。
+- ✅ (0.3.2L) [Promotion Video](https://www.bilibili.com/video/BV1HV411W7rv/). [宣传片](https://www.bilibili.com/video/BV1HV411W7rv/)。
+- ✅ (0.3.2L) Create new scenario (e.g.: civilizations for M6 each). 创建新剧本（例如为M6分别建立政权）。
 - ⬜ (0.3.3L) Events Pack: Planned Economy。事件包：计划经济。
 - ⬜ (0.3.4L) Events Pack: Horse of Cards。事件包：纸牌马。
 - ...
-- ⬜ (0.4.0L) Create new scenario (e.g.: civilizations for M6 each). 创建新剧本（例如为M6分别建立政权）。
+- ⬜ (0.4.0L) Create and develop new scenarios. 创建和完善新剧本。
 - ⬜ (0.4.0L) Create more civilizations. 创建更多文明。
 - ⬜ (1.0.0L) Full complex scenarios with events. 创建完整、复杂的事件剧本。
 - ...
@@ -255,6 +256,9 @@ OC contributors:
 - Talirian (me): Talirian Inc., Magolor Lab..
 - Angel: Rost Military Government, Black Magic Empire.
 
+Contributors:
+- 秦奥康
+
 开发者：
 - Talirian (我)：模组创始者 & 地图开发者 & PC模组设计者/开发者。
 - 尖峰Gren：安卓模组开发者 & PC模组开发者。
@@ -266,9 +270,12 @@ OC contributors:
 - 下木枕流，以德待人，从〇开始的鸽子生活等人。（来自文明时代2：维他模组制作组）。
 - harwicks-art: 授权使用领袖肖像。
 
-OC 贡献者
+OC 贡献者：
 - 塔里瑞安（我）：塔里瑞安组织，麦格劳尔实验室。
 - 安吉尔：罗斯特军政府，黑魔法帝国。
+
+贡献者：
+- 秦奥康
 
 <br/>
 
