@@ -21,6 +21,8 @@ Other parts of the series:
 - Music: [youtube](https://www.youtube.com/playlist?list=PLsrkfVTe5kZkb_suB9i5c27vWH3_7xD1T), [bilibili](https://space.bilibili.com/409790680/channel/detail?cid=168396), [netease](https://music.163.com/#/album?id=98865624). Continuously updating.
 - Trailer:
 	- PIHC MOD Official Trailer: [youtube](https://www.youtube.com/watch?v=ZAbT8mwrUb0), [bilibili](https://www.bilibili.com/video/BV1EX4y1L7mR).
+	- PIHC MOD 0.3.1 Trailer: [youtube](https://www.youtube.com/watch?v=6GMacC4iuRk), [bilibili](https://www.bilibili.com/video/BV12v411j79h).
+	- PIHC MOD 0.3.2 "The Fall Of Tartarus" Trailer: [youtube](https://www.youtube.com/watch?v=OcM2F7Qa6Zo), [bilibili](https://www.bilibili.com/video/BV1HV411W7rv).
 - Interactive Video: Coming ~~Soon~~.
 - Novels: Not in foreseeable future.
 - Fan-fiction paintings: Not in foreseeable future unless with a volunteer.
@@ -30,6 +32,8 @@ Other parts of the series:
 - 音乐： [油管](https://www.youtube.com/playlist?list=PLsrkfVTe5kZkb_suB9i5c27vWH3_7xD1T)，[哔哩哔哩](https://space.bilibili.com/409790680/channel/detail?cid=168396)， [网易云音乐](https://music.163.com/#/album?id=98865624)。持续更新中。
 - 预告片：
 	- 高堡奇驹模组正式预告：[油管](https://www.youtube.com/watch?v=ZAbT8mwrUb0)，[哔哩哔哩](https://www.bilibili.com/video/BV1EX4y1L7mR)。
+	- 高堡奇驹模组0.3.1预告: [油管](https://www.youtube.com/watch?v=6GMacC4iuRk), [哔哩哔哩](https://www.bilibili.com/video/BV12v411j79h).
+	- 高堡奇驹模组0.3.2 "塔尔塔洛斯的陷落"预告: [油管](https://www.youtube.com/watch?v=OcM2F7Qa6Zo), [哔哩哔哩](https://www.bilibili.com/video/
 - 互动视频：~~即将~~推出。
 - 小说：暂无计划。
 - 同人插画：暂无计划，除非有志愿者。
