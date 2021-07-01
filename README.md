@@ -250,15 +250,21 @@ Developers:
 - 尖峰Gren: Android MOD developer & PC MOD developer.
 - 童贯: Android MOD developer.
 - vagrant137, Norway, 特瓦伊莱特, etc.: The first testers.
+- 闪电芦苇上校.
 - porkied: MOD Proposer.
+- 暗影3764: PC MOD developer.
 
 Great Helpers:
 - 下木枕流, 以德待人, 从〇开始的鸽子生活, etc. (from AoH2:Weita MOD production group). 
 - harwicks-art: providing leaders portraits authorized under CC "share and share alike" license.
 
 OC contributors:
-- Talirian (me): Talirian Inc., Magolor Lab..
-- Angel: Rost Military Government, Black Magic Empire.
+- Talirian (me).
+- Angel.
+- DSDAS7665.
+- 暗影3764.
+- 幻屑_Official.
+- 特瓦伊莱特.
 
 Contributors:
 - 秦奥康
@@ -269,14 +275,19 @@ Contributors:
 - 童贯: 安卓模组开发者。
 - vagrant137，Norway，特瓦伊莱特，等许多人：首批体验者们。
 - porkied：模组提议者。
+- 暗影3764: 模组开发者。
 
 重要帮助者：
 - 下木枕流，以德待人，从〇开始的鸽子生活等人。（来自文明时代2：维他模组制作组）。
 - harwicks-art: 授权使用领袖肖像。
 
 OC 贡献者：
-- 塔里瑞安（我）：塔里瑞安组织，麦格劳尔实验室。
-- 安吉尔：罗斯特军政府，黑魔法帝国。
+- 塔里瑞安（我）。
+- 安吉尔。
+- DSDAS7665。
+- 暗影3764。
+- 幻屑_Official。
+- 特瓦伊莱特。
 
 贡献者：
 - 秦奥康
